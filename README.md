@@ -17,7 +17,22 @@ We will evaluiate the algorithms above using the accuracy score from the sklearn
 
 ### RESULTS:
 #### RandomOverSampler
-Fig 1. [https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig1.png]!
+Fig 1.
+
+![](https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig1.png)
+
+Fig 2.
+
+![](https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig2.png)
+* Accuracy = 62%
+* Precision:                     
+  * Low_risk Loans = 100%
+  * High_risk Loans = 1%
+
+* Recall                 
+  * Low_risk Loans = 63%
+  * High_risk Loans = 61%
+
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
 Summary:
