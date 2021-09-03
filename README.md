@@ -17,6 +17,7 @@ We will evaluiate the algorithms above using the accuracy score from the sklearn
 
 ### RESULTS:
 #### RandomOverSampler
+Fig 1. [https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig1.png]!
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
 Summary:
