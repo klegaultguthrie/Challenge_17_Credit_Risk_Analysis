@@ -16,7 +16,7 @@ We will evaluiate the algorithms above using the accuracy score from the sklearn
 
 
 ### RESULTS:
-#### RandomOverSampler
+### RandomOverSampler
 Fig 1.
 
 ![](https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig1.png)
@@ -33,7 +33,7 @@ Fig 2.
   * Low_risk Loans = 63%
   * High_risk Loans = 61%
 
-#### SMOTE Oversampling
+### SMOTE Oversampling
 Fig 3.
 
 ![](https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig3.png)
@@ -50,7 +50,7 @@ Fig 4.
   * Low_risk Loans = 65%
   * High_risk Loans = 61%
 
-#### ClusterCentroids Undersampling
+### ClusterCentroids Undersampling
 Fig 5. 
 
 ![](https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig5.png)
@@ -68,13 +68,15 @@ Fig 6.
   * Low_risk Loans = 42%
   * High_risk Loans = 58%
 
-#### Combination (Over and Under) Sampling
+### Combination (Over and Under) Sampling
 
 Fig 7.
 
 ![](https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig7.png)
 
 Fig 8.
+
+![](https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig8.png)
 
 * Accuracy = 50%
 * Precision:                     
