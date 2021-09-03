@@ -87,6 +87,44 @@ Fig 8.
   * Low_risk Loans = 58%
   * High_risk Loans = 71%
 
+#### Balanced Random Forest Classifier
 
-There is a summary of the results (2 pt)
+Fig. 9
+
+![](https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig9.png)
+
+Fig 10.
+![](https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig10.png)
+
+* Accuracy = 77%
+* Precision:                     
+  * Low_risk Loans = 100%
+  * High_risk Loans = 3%
+
+* Recall                 
+  * Low_risk Loans = 88%
+  * High_risk Loans = 66%
+
+
+#### Easy Ensemble AdaBoost Classifier
+
+Fig 11.
+
+![](https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig11.png)
+
+Fig 12.
+
+![](https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig12.png)
+
+* Accuracy = 93%
+* Precision:                     
+  * Low_risk Loans = 100%
+  * High_risk Loans = 9%
+
+* Recall                 
+  * Low_risk Loans = 95%
+  * High_risk Loans = 92%
+
+### SUMMARY & RECOMENDATION:
+
 There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
