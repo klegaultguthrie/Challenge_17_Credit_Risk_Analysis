@@ -33,9 +33,58 @@ Fig 2.
   * Low_risk Loans = 63%
   * High_risk Loans = 61%
 
+#### SMOTE Oversampling
+Fig 3.
 
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
-Summary:
+![](https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig3.png)
+
+Fig 4. 
+
+![](https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig4.png)
+* Accuracy = 62%
+* Precision:                     
+  * Low_risk Loans = 100%
+  * High_risk Loans = 1%
+
+* Recall                 
+  * Low_risk Loans = 65%
+  * High_risk Loans = 61%
+
+#### ClusterCentroids Undersampling
+Fig 5. 
+
+![](https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig5.png)
+
+Fig 6.
+
+![](https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig6.png)
+
+* Accuracy = 63%
+* Precision:                     
+  * Low_risk Loans = 99%
+  * High_risk Loans = 1%
+
+* Recall                 
+  * Low_risk Loans = 42%
+  * High_risk Loans = 58%
+
+#### Combination (Over and Under) Sampling
+
+Fig 7.
+
+![](https://github.com/klegaultguthrie/Challenge_17_Credit_Risk_Analysis/blob/main/Fig7.png)
+
+Fig 8.
+
+* Accuracy = 50%
+* Precision:                     
+  * Low_risk Loans = 100%
+  * High_risk Loans = 1%
+
+* Recall                 
+  * Low_risk Loans = 58%
+  * High_risk Loans = 71%
+
 
 There is a summary of the results (2 pt)
 There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
